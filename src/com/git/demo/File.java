@@ -8,6 +8,7 @@ public class File {
 		System.out.println("第一次修改");
 		System.out.println("代码冲突：第二个开发人员修改");
 
+		System.out.println("代码冲突：第一个开发人员修改");
 	}
 
 }
