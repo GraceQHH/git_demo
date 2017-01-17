@@ -11,6 +11,8 @@ public class File {
 		System.out.println("紧急修复bug，bug修复成功！");
 		System.out.println("stash：开始工作了。。。。。。。");
 		System.out.println("开始继续工作了.......开心:)");
+	
+		System.out.println("分支：紧急修复bug，bug修复成功！");
 	}
 
 }
