@@ -6,6 +6,7 @@ public class File {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("第一次修改");
+		System.out.println("代码冲突：第一个开发人员修改");
 	}
 
 }
